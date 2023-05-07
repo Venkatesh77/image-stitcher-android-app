@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image Stitcher</string>
+    <string name="stitchImages">Stitch Images</string>
+    <string name="success">Images stitched successfully</string>
+    <string name="error">Oops, unable to stitch the image</string>
+    <string name="more_than_one">Please select more than 1 images</string>
+</resources>
